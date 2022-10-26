@@ -1,0 +1,47 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.banner{
+    display: flexbox;
+    background-color: aquamarine;
+    color: white;
+    padding: 12px
+}
+.text{
+    position: relative;
+    background-color: rgba(red, green, blue, alpha);
+    top: 40%;
+    margin: auto;
+    text-align: center;
+    border: double 5px;
+    padding: 12px;
+    border-radius: 10px;
+
+}
+.part{
+    text-align: center;
+    margin: auto;
+
+}
+.name{
+    font-weight: bold;
+}
+img{
+    margin-left: 10%;
+    width: 15%;
+    height: auto;
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color:blue
+}
+.sidebar{
+    padding: 10px;
+    background-color: bisque;
+}
+.list{
+    margin-left: 40px;
+}
