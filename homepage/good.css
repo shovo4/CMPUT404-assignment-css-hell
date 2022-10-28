@@ -1,11 +1,11 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
 .banner{
     display: flexbox;
-    background-color: aquamarine;
-    color: white;
+    background-color: burlywood;
+    color: black;
     padding: 12px
 }
 .text{
@@ -36,12 +36,17 @@ img{
 h2{
     text-align: center;
     text-decoration: underline;
-    color:blue
+    color:darkblue
+}
+.bar{
+    display: flex;
 }
 .sidebar{
     padding: 10px;
-    background-color: bisque;
+    background-color: burlywood;
+    width: 25%;
+    height: fit-content;
 }
 .list{
-    margin-left: 40px;
+    margin-left: 20px;
 }
